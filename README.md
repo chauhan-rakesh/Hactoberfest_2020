@@ -15,6 +15,8 @@ It can be any of any length and can be any number of scripts, just add a folder 
 
 ## Contributors
 
+[Rakesh Chauhan](https://github.com/chauhan-rakesh)
+
 [Your name here](Your GitHub/Linkedin URL here)
 
 ## Final words
